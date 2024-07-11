@@ -1,0 +1,9 @@
+.footer{
+    grid-row: 3/4;
+    grid-column: 1/2;
+
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
